@@ -1,4 +1,3 @@
-drop database triggers;
 create database triggers;
 use triggers;
 show tables;
